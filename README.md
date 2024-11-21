@@ -1,5 +1,4 @@
-# Hongyi-Duan-Mini-Project-1
+# Hongyi-Duan-Docker
 
-[![CI/CD run](https://github.com/nogibjj/Hongyi-Duan-Mini-Project-1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Mini-Project-1/actions/workflows/hello.yml)
+[![Python CI/CD with Docker](https://github.com/nogibjj/Hongyi-Duan-Docker/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Docker/actions/workflows/cicd.yml)
 
-This is a course assignment of data engineering, which is about virtual environment and pipelines.
